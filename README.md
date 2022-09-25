@@ -4,7 +4,7 @@ Hello you! Welcome to my profile feel free to explore a little bit.
 
 I am Valentin Kaiser from Bielefeld, Germany. I am an application developer, Fortinet NSE4, Ekahau CSSE, Zabbix Specialist, CEO and team leader. 
 
-Currently working at Avanis GmbH and IntelliTrend GmbH and LaKiS GbR.
+Currently working at [Avanis](https://github.com/Avanis-GmbH), [IntelliTrend](https://github.com/Intellitrend) and [LAKIS](https://github.com/lakis-gbr).
 
 
 ## Languages
