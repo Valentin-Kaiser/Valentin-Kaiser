@@ -2,7 +2,8 @@
 
 Hello you! Welcome to my profile feel free to explore a little bit.
 
-I am Valentin Kaiser from Bielefeld, Germany. I'm currently working at Avanis GmbH and IntelliTrend GmbH as a software developer and managing director of LaKiS GbR.
+I am Valentin Kaiser from Bielefeld, Germany. I am an application developer, Fortinet NSE 4, Ekahau CSSE and CEO. Currently working at Avanis GmbH and IntelliTrend GmbH as a software developer and managing director of LaKiS GbR.
+
 
 ## Languages
 
@@ -21,6 +22,8 @@ I am Valentin Kaiser from Bielefeld, Germany. I'm currently working at Avanis Gm
 <code><img height="20" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/shopware-%23189EFF.svg?&style=for-the-badge&logo=shopware&logoColor=white"></code>
 
 ## Tools
 
@@ -39,6 +42,7 @@ I am Valentin Kaiser from Bielefeld, Germany. I'm currently working at Avanis Gm
 <code><img height="20" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/fortinet-%23EE3124.svg?&style=for-the-badge&logo=fortinet&logoColor=white"></code>
 
 ## Databases
 
@@ -62,7 +66,6 @@ I am Valentin Kaiser from Bielefeld, Germany. I'm currently working at Avanis Gm
 <code><img height="20" src="https://img.shields.io/badge/AMD%20Ryzen_Thradripper-1950x-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/AMD%20Radeon-RX_5700_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/NVIDIA-RTX_3060_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></code>
-
 
 ## Signature
 
