@@ -63,7 +63,7 @@ I am Valentin Kaiser from Bielefeld, Germany. I am an application developer, For
 
 ## Workstation specs
 
-<code><img height="20" src="https://img.shields.io/badge/AMD%20Ryzen_Thradripper-1950x-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/AMD%20Ryzen_Threadripper-1950x-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/AMD%20Radeon-RX_5700_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/NVIDIA-RTX_3060_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></code>
 
