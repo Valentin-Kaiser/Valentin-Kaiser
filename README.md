@@ -1,4 +1,5 @@
-## The Only Good Bug is a Dead Bug!
+The Only Good Bug is a Dead Bug!
+---
 
 Hello you! Welcome to my profile feel free to explore a little bit.
 
@@ -6,6 +7,7 @@ I am Valentin Kaiser from Bielefeld, Germany. I am an application developer, For
 
 Currently working at [Avanis](https://github.com/Avanis-GmbH), [IntelliTrend](https://github.com/Intellitrend) and [LAKIS](https://github.com/lakis-gbr).
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valentin-Kaiser&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 
@@ -97,5 +99,4 @@ __     ___  __     _
    \_/  |_|\_\__,_|_|___/\___|_|   							   
 </pre>
 
-<!-- <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentin-Kaiser"> -->
-<img height="20" src="https://komarev.com/ghpvc/?username=Valentin-Kaiser">
+<img align="right" height="20" src="https://komarev.com/ghpvc/?username=Valentin-Kaiser">
