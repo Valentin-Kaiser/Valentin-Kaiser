@@ -20,7 +20,7 @@ Working with:
 	<img height="20" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&color=black&logoColor=white">
 </span>
 
-at [Avanis](https://github.com/Avanis-GmbH), [IntelliTrend](https://github.com/Intellitrend) and [LAKIS](https://github.com/lakis-gbr).
+[@Avanis-GmbH](https://github.com/Avanis-GmbH), [@intellitrend](https://github.com/Intellitrend) and [@LaKiS-GbR](https://github.com/lakis-gbr).
 
 
 <pre>
