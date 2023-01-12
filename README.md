@@ -20,7 +20,7 @@ Working with:
 	<img height="20" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&color=black&logoColor=white">
 </span>
 
-[@Avanis-GmbH](https://github.com/Avanis-GmbH), [@intellitrend](https://github.com/Intellitrend) and [@LaKiS-GbR](https://github.com/lakis-gbr).
+At [@Avanis-GmbH](https://github.com/Avanis-GmbH), [@intellitrend](https://github.com/Intellitrend) and [@LaKiS-GbR](https://github.com/lakis-gbr).
 
 
 <pre>
@@ -30,5 +30,3 @@ __     ___  __     _
   \ V / | . \ (_| | \__ \  __/ |   
    \_/  |_|\_\__,_|_|___/\___|_|   							   
 </pre>
-
-<img align="right" height="20" src="https://komarev.com/ghpvc/?username=Valentin-Kaiser">
