@@ -4,10 +4,6 @@
 The Only Good Bug is a Dead Bug!
 ---
 
-Hello you! Welcome to my profile feel free to explore a little bit.
-
-Application developer, Fortinet NSE4, Ekahau CSSE, Zabbix Specialist, CEO and team leader. 
-
 Working with:
 
 <span>
