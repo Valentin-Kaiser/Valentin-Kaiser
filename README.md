@@ -1,6 +1,3 @@
-<img width="200" height="200" src="https://user-images.githubusercontent.com/60584607/196804313-9608ebee-51d9-4c06-9605-dbd5ba5f206c.png" />
-
-
 The Only Good Bug is a Dead Bug!
 ---
 
@@ -16,7 +13,7 @@ Working with:
 	<img height="20" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&color=black&logoColor=white">
 </span>
 
-At [@Avanis-GmbH](https://github.com/Avanis-GmbH), [@intellitrend](https://github.com/Intellitrend) and [@LaKiS-GbR](https://github.com/lakis-gbr).
+[@Avanis-GmbH](https://github.com/Avanis-GmbH) and [@LaKiS-GbR](https://github.com/lakis-gbr)
 
 
 <pre>
