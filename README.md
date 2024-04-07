@@ -1,4 +1,4 @@
-The Only Good Bug is a Dead Bug!
+The only good bug is a dead bug!
 ---
 
 Working with:
